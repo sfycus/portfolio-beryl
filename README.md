@@ -1,5 +1,7 @@
 # Beryl
 
+[Открыть сайт](https://sfycus.github.io/portfolio-sites/sites/beryl/) · [Каталог проектов](https://sfycus.github.io/portfolio-sites/)
+
 Студия мебели · самостоятельный сайт для портфолио.
 
 <img src="assets/workroom.jpg" alt="Фотография для проекта Beryl" width="760">
